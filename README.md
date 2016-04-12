@@ -3,7 +3,11 @@ GENERAL INFORMATION Project Name: Twitter Sentiment Classification
 Programs: 
 R version 3.2.4
 
-AUTHORS Lily Li - lily_li@berkeley.edu 
+AUTHORS 
+AJ Francia
+Jon Stewart
+Lily Li - lily_li@berkeley.edu
+
 
 DESCRIPTION We are all currently students in Stats 164 and this is our final project for the semester. We are looking at the tweets from Twitter and finding a way to classify them as positive and negative. We will be focusing on classifiation alogirthmns and accuracy rates. 
 
